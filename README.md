@@ -1,6 +1,6 @@
 # Nutrition System for Sports Persons
 
-![Nutrition System for Sports Persons](nutrition-system-screenshot.png)
+
 
 The Nutrition System for Sports Persons is a user-friendly and open-source web application that assists individuals in optimizing their sports performance by providing personalized food recommendations. This system considers the user's food preferences, practice hours, specific nutrients requirements, and the type of sports they are involved in.
 
@@ -48,8 +48,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions, feel free to [contact us](mailto:your.email@example.com).
+If you have any questions or suggestions, feel free to [contact us](mailto:thanuchandru01@gmail.com).
 
 The Nutrition System for Sports Persons is a valuable tool for athletes and sports enthusiasts looking to optimize their dietary choices for enhanced performance. Join us in promoting health and fitness through informed nutrition!
 
-![Nutrition System Logo](nutrition-system-logo.png)
+![Nutrition System for Sports Persons]([nutrition-system-screenshot.png](https://www.bing.com/images/blob?bcid=RJzDUYKce0oG773H5Xo1QsAdsA-o.....7k)
